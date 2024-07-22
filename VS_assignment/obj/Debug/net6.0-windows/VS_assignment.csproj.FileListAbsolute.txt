@@ -1,0 +1,90 @@
+C:\Users\Pasindu Malinda\Desktop\VS_assignment\VS_assignment\bin\Debug\net6.0-windows\VS_assignment.exe
+C:\Users\Pasindu Malinda\Desktop\VS_assignment\VS_assignment\bin\Debug\net6.0-windows\VS_assignment.deps.json
+C:\Users\Pasindu Malinda\Desktop\VS_assignment\VS_assignment\bin\Debug\net6.0-windows\VS_assignment.runtimeconfig.json
+C:\Users\Pasindu Malinda\Desktop\VS_assignment\VS_assignment\bin\Debug\net6.0-windows\VS_assignment.dll
+C:\Users\Pasindu Malinda\Desktop\VS_assignment\VS_assignment\bin\Debug\net6.0-windows\VS_assignment.pdb
+C:\Users\Pasindu Malinda\Desktop\VS_assignment\VS_assignment\obj\Debug\net6.0-windows\VS_assignment.csproj.AssemblyReference.cache
+C:\Users\Pasindu Malinda\Desktop\VS_assignment\VS_assignment\obj\Debug\net6.0-windows\VS_assignment.Form1.resources
+C:\Users\Pasindu Malinda\Desktop\VS_assignment\VS_assignment\obj\Debug\net6.0-windows\VS_assignment.Properties.Resources.resources
+C:\Users\Pasindu Malinda\Desktop\VS_assignment\VS_assignment\obj\Debug\net6.0-windows\VS_assignment.csproj.GenerateResource.cache
+C:\Users\Pasindu Malinda\Desktop\VS_assignment\VS_assignment\obj\Debug\net6.0-windows\VS_assignment.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Pasindu Malinda\Desktop\VS_assignment\VS_assignment\obj\Debug\net6.0-windows\VS_assignment.AssemblyInfoInputs.cache
+C:\Users\Pasindu Malinda\Desktop\VS_assignment\VS_assignment\obj\Debug\net6.0-windows\VS_assignment.AssemblyInfo.cs
+C:\Users\Pasindu Malinda\Desktop\VS_assignment\VS_assignment\obj\Debug\net6.0-windows\VS_assignment.csproj.CoreCompileInputs.cache
+C:\Users\Pasindu Malinda\Desktop\VS_assignment\VS_assignment\obj\Debug\net6.0-windows\VS_assignment.dll
+C:\Users\Pasindu Malinda\Desktop\VS_assignment\VS_assignment\obj\Debug\net6.0-windows\refint\VS_assignment.dll
+C:\Users\Pasindu Malinda\Desktop\VS_assignment\VS_assignment\obj\Debug\net6.0-windows\VS_assignment.pdb
+C:\Users\Pasindu Malinda\Desktop\VS_assignment\VS_assignment\obj\Debug\net6.0-windows\VS_assignment.genruntimeconfig.cache
+C:\Users\Pasindu Malinda\Desktop\VS_assignment\VS_assignment\obj\Debug\net6.0-windows\ref\VS_assignment.dll
+C:\Users\upeks\Documents\My stuffs\Assignments\VS\VS_assignment1\VS_assignment\VS_assignment\bin\Debug\net6.0-windows\VS_assignment.exe
+C:\Users\upeks\Documents\My stuffs\Assignments\VS\VS_assignment1\VS_assignment\VS_assignment\bin\Debug\net6.0-windows\VS_assignment.deps.json
+C:\Users\upeks\Documents\My stuffs\Assignments\VS\VS_assignment1\VS_assignment\VS_assignment\bin\Debug\net6.0-windows\VS_assignment.runtimeconfig.json
+C:\Users\upeks\Documents\My stuffs\Assignments\VS\VS_assignment1\VS_assignment\VS_assignment\bin\Debug\net6.0-windows\VS_assignment.dll
+C:\Users\upeks\Documents\My stuffs\Assignments\VS\VS_assignment1\VS_assignment\VS_assignment\bin\Debug\net6.0-windows\VS_assignment.pdb
+C:\Users\upeks\Documents\My stuffs\Assignments\VS\VS_assignment1\VS_assignment\VS_assignment\obj\Debug\net6.0-windows\VS_assignment.csproj.AssemblyReference.cache
+C:\Users\upeks\Documents\My stuffs\Assignments\VS\VS_assignment1\VS_assignment\VS_assignment\obj\Debug\net6.0-windows\VS_assignment.Form1.resources
+C:\Users\upeks\Documents\My stuffs\Assignments\VS\VS_assignment1\VS_assignment\VS_assignment\obj\Debug\net6.0-windows\VS_assignment.Properties.Resources.resources
+C:\Users\upeks\Documents\My stuffs\Assignments\VS\VS_assignment1\VS_assignment\VS_assignment\obj\Debug\net6.0-windows\VS_assignment.csproj.GenerateResource.cache
+C:\Users\upeks\Documents\My stuffs\Assignments\VS\VS_assignment1\VS_assignment\VS_assignment\obj\Debug\net6.0-windows\VS_assignment.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\upeks\Documents\My stuffs\Assignments\VS\VS_assignment1\VS_assignment\VS_assignment\obj\Debug\net6.0-windows\VS_assignment.AssemblyInfoInputs.cache
+C:\Users\upeks\Documents\My stuffs\Assignments\VS\VS_assignment1\VS_assignment\VS_assignment\obj\Debug\net6.0-windows\VS_assignment.AssemblyInfo.cs
+C:\Users\upeks\Documents\My stuffs\Assignments\VS\VS_assignment1\VS_assignment\VS_assignment\obj\Debug\net6.0-windows\VS_assignment.csproj.CoreCompileInputs.cache
+C:\Users\upeks\Documents\My stuffs\Assignments\VS\VS_assignment1\VS_assignment\VS_assignment\obj\Debug\net6.0-windows\VS_assignment.dll
+C:\Users\upeks\Documents\My stuffs\Assignments\VS\VS_assignment1\VS_assignment\VS_assignment\obj\Debug\net6.0-windows\refint\VS_assignment.dll
+C:\Users\upeks\Documents\My stuffs\Assignments\VS\VS_assignment1\VS_assignment\VS_assignment\obj\Debug\net6.0-windows\VS_assignment.pdb
+C:\Users\upeks\Documents\My stuffs\Assignments\VS\VS_assignment1\VS_assignment\VS_assignment\obj\Debug\net6.0-windows\VS_assignment.genruntimeconfig.cache
+C:\Users\upeks\Documents\My stuffs\Assignments\VS\VS_assignment1\VS_assignment\VS_assignment\obj\Debug\net6.0-windows\ref\VS_assignment.dll
+C:\Users\upeks\Documents\My stuffs\Assignments\VS\step8\VS_assignment\VS_assignment\bin\Debug\net6.0-windows\VS_assignment.exe
+C:\Users\upeks\Documents\My stuffs\Assignments\VS\step8\VS_assignment\VS_assignment\bin\Debug\net6.0-windows\VS_assignment.deps.json
+C:\Users\upeks\Documents\My stuffs\Assignments\VS\step8\VS_assignment\VS_assignment\bin\Debug\net6.0-windows\VS_assignment.runtimeconfig.json
+C:\Users\upeks\Documents\My stuffs\Assignments\VS\step8\VS_assignment\VS_assignment\bin\Debug\net6.0-windows\VS_assignment.dll
+C:\Users\upeks\Documents\My stuffs\Assignments\VS\step8\VS_assignment\VS_assignment\bin\Debug\net6.0-windows\VS_assignment.pdb
+C:\Users\upeks\Documents\My stuffs\Assignments\VS\step8\VS_assignment\VS_assignment\obj\Debug\net6.0-windows\VS_assignment.csproj.AssemblyReference.cache
+C:\Users\upeks\Documents\My stuffs\Assignments\VS\step8\VS_assignment\VS_assignment\obj\Debug\net6.0-windows\VS_assignment.Form1.resources
+C:\Users\upeks\Documents\My stuffs\Assignments\VS\step8\VS_assignment\VS_assignment\obj\Debug\net6.0-windows\VS_assignment.Properties.Resources.resources
+C:\Users\upeks\Documents\My stuffs\Assignments\VS\step8\VS_assignment\VS_assignment\obj\Debug\net6.0-windows\VS_assignment.csproj.GenerateResource.cache
+C:\Users\upeks\Documents\My stuffs\Assignments\VS\step8\VS_assignment\VS_assignment\obj\Debug\net6.0-windows\VS_assignment.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\upeks\Documents\My stuffs\Assignments\VS\step8\VS_assignment\VS_assignment\obj\Debug\net6.0-windows\VS_assignment.AssemblyInfoInputs.cache
+C:\Users\upeks\Documents\My stuffs\Assignments\VS\step8\VS_assignment\VS_assignment\obj\Debug\net6.0-windows\VS_assignment.AssemblyInfo.cs
+C:\Users\upeks\Documents\My stuffs\Assignments\VS\step8\VS_assignment\VS_assignment\obj\Debug\net6.0-windows\VS_assignment.csproj.CoreCompileInputs.cache
+C:\Users\upeks\Documents\My stuffs\Assignments\VS\step8\VS_assignment\VS_assignment\obj\Debug\net6.0-windows\VS_assignment.dll
+C:\Users\upeks\Documents\My stuffs\Assignments\VS\step8\VS_assignment\VS_assignment\obj\Debug\net6.0-windows\refint\VS_assignment.dll
+C:\Users\upeks\Documents\My stuffs\Assignments\VS\step8\VS_assignment\VS_assignment\obj\Debug\net6.0-windows\VS_assignment.pdb
+C:\Users\upeks\Documents\My stuffs\Assignments\VS\step8\VS_assignment\VS_assignment\obj\Debug\net6.0-windows\VS_assignment.genruntimeconfig.cache
+C:\Users\upeks\Documents\My stuffs\Assignments\VS\step8\VS_assignment\VS_assignment\obj\Debug\net6.0-windows\ref\VS_assignment.dll
+C:\Users\Pasindu Malinda\Desktop\step8\VS_assignment\VS_assignment\bin\Debug\net6.0-windows\VS_assignment.exe
+C:\Users\Pasindu Malinda\Desktop\step8\VS_assignment\VS_assignment\bin\Debug\net6.0-windows\VS_assignment.deps.json
+C:\Users\Pasindu Malinda\Desktop\step8\VS_assignment\VS_assignment\bin\Debug\net6.0-windows\VS_assignment.runtimeconfig.json
+C:\Users\Pasindu Malinda\Desktop\step8\VS_assignment\VS_assignment\bin\Debug\net6.0-windows\VS_assignment.dll
+C:\Users\Pasindu Malinda\Desktop\step8\VS_assignment\VS_assignment\bin\Debug\net6.0-windows\VS_assignment.pdb
+C:\Users\Pasindu Malinda\Desktop\step8\VS_assignment\VS_assignment\obj\Debug\net6.0-windows\VS_assignment.csproj.AssemblyReference.cache
+C:\Users\Pasindu Malinda\Desktop\step8\VS_assignment\VS_assignment\obj\Debug\net6.0-windows\VS_assignment.Form1.resources
+C:\Users\Pasindu Malinda\Desktop\step8\VS_assignment\VS_assignment\obj\Debug\net6.0-windows\VS_assignment.Properties.Resources.resources
+C:\Users\Pasindu Malinda\Desktop\step8\VS_assignment\VS_assignment\obj\Debug\net6.0-windows\VS_assignment.csproj.GenerateResource.cache
+C:\Users\Pasindu Malinda\Desktop\step8\VS_assignment\VS_assignment\obj\Debug\net6.0-windows\VS_assignment.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Pasindu Malinda\Desktop\step8\VS_assignment\VS_assignment\obj\Debug\net6.0-windows\VS_assignment.AssemblyInfoInputs.cache
+C:\Users\Pasindu Malinda\Desktop\step8\VS_assignment\VS_assignment\obj\Debug\net6.0-windows\VS_assignment.AssemblyInfo.cs
+C:\Users\Pasindu Malinda\Desktop\step8\VS_assignment\VS_assignment\obj\Debug\net6.0-windows\VS_assignment.csproj.CoreCompileInputs.cache
+C:\Users\Pasindu Malinda\Desktop\step8\VS_assignment\VS_assignment\obj\Debug\net6.0-windows\VS_assignment.dll
+C:\Users\Pasindu Malinda\Desktop\step8\VS_assignment\VS_assignment\obj\Debug\net6.0-windows\refint\VS_assignment.dll
+C:\Users\Pasindu Malinda\Desktop\step8\VS_assignment\VS_assignment\obj\Debug\net6.0-windows\VS_assignment.pdb
+C:\Users\Pasindu Malinda\Desktop\step8\VS_assignment\VS_assignment\obj\Debug\net6.0-windows\VS_assignment.genruntimeconfig.cache
+C:\Users\Pasindu Malinda\Desktop\step8\VS_assignment\VS_assignment\obj\Debug\net6.0-windows\ref\VS_assignment.dll
+D:\# SKP Files\HNDIT\1st Year 1st SEM\HNDIT1012 - Visual Application Programming\Assignment\Assignment 2 VS Game\VS_assignment\bin\Debug\net6.0-windows\VS_assignment.exe
+D:\# SKP Files\HNDIT\1st Year 1st SEM\HNDIT1012 - Visual Application Programming\Assignment\Assignment 2 VS Game\VS_assignment\bin\Debug\net6.0-windows\VS_assignment.deps.json
+D:\# SKP Files\HNDIT\1st Year 1st SEM\HNDIT1012 - Visual Application Programming\Assignment\Assignment 2 VS Game\VS_assignment\bin\Debug\net6.0-windows\VS_assignment.runtimeconfig.json
+D:\# SKP Files\HNDIT\1st Year 1st SEM\HNDIT1012 - Visual Application Programming\Assignment\Assignment 2 VS Game\VS_assignment\bin\Debug\net6.0-windows\VS_assignment.dll
+D:\# SKP Files\HNDIT\1st Year 1st SEM\HNDIT1012 - Visual Application Programming\Assignment\Assignment 2 VS Game\VS_assignment\bin\Debug\net6.0-windows\VS_assignment.pdb
+D:\# SKP Files\HNDIT\1st Year 1st SEM\HNDIT1012 - Visual Application Programming\Assignment\Assignment 2 VS Game\VS_assignment\obj\Debug\net6.0-windows\VS_assignment.csproj.AssemblyReference.cache
+D:\# SKP Files\HNDIT\1st Year 1st SEM\HNDIT1012 - Visual Application Programming\Assignment\Assignment 2 VS Game\VS_assignment\obj\Debug\net6.0-windows\VS_assignment.Form1.resources
+D:\# SKP Files\HNDIT\1st Year 1st SEM\HNDIT1012 - Visual Application Programming\Assignment\Assignment 2 VS Game\VS_assignment\obj\Debug\net6.0-windows\VS_assignment.Properties.Resources.resources
+D:\# SKP Files\HNDIT\1st Year 1st SEM\HNDIT1012 - Visual Application Programming\Assignment\Assignment 2 VS Game\VS_assignment\obj\Debug\net6.0-windows\VS_assignment.csproj.GenerateResource.cache
+D:\# SKP Files\HNDIT\1st Year 1st SEM\HNDIT1012 - Visual Application Programming\Assignment\Assignment 2 VS Game\VS_assignment\obj\Debug\net6.0-windows\VS_assignment.GeneratedMSBuildEditorConfig.editorconfig
+D:\# SKP Files\HNDIT\1st Year 1st SEM\HNDIT1012 - Visual Application Programming\Assignment\Assignment 2 VS Game\VS_assignment\obj\Debug\net6.0-windows\VS_assignment.AssemblyInfoInputs.cache
+D:\# SKP Files\HNDIT\1st Year 1st SEM\HNDIT1012 - Visual Application Programming\Assignment\Assignment 2 VS Game\VS_assignment\obj\Debug\net6.0-windows\VS_assignment.AssemblyInfo.cs
+D:\# SKP Files\HNDIT\1st Year 1st SEM\HNDIT1012 - Visual Application Programming\Assignment\Assignment 2 VS Game\VS_assignment\obj\Debug\net6.0-windows\VS_assignment.csproj.CoreCompileInputs.cache
+D:\# SKP Files\HNDIT\1st Year 1st SEM\HNDIT1012 - Visual Application Programming\Assignment\Assignment 2 VS Game\VS_assignment\obj\Debug\net6.0-windows\VS_assignment.dll
+D:\# SKP Files\HNDIT\1st Year 1st SEM\HNDIT1012 - Visual Application Programming\Assignment\Assignment 2 VS Game\VS_assignment\obj\Debug\net6.0-windows\refint\VS_assignment.dll
+D:\# SKP Files\HNDIT\1st Year 1st SEM\HNDIT1012 - Visual Application Programming\Assignment\Assignment 2 VS Game\VS_assignment\obj\Debug\net6.0-windows\VS_assignment.pdb
+D:\# SKP Files\HNDIT\1st Year 1st SEM\HNDIT1012 - Visual Application Programming\Assignment\Assignment 2 VS Game\VS_assignment\obj\Debug\net6.0-windows\VS_assignment.genruntimeconfig.cache
+D:\# SKP Files\HNDIT\1st Year 1st SEM\HNDIT1012 - Visual Application Programming\Assignment\Assignment 2 VS Game\VS_assignment\obj\Debug\net6.0-windows\ref\VS_assignment.dll
